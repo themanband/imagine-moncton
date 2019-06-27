@@ -1,0 +1,7 @@
+{
+  "name": "imagine-moncton",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
